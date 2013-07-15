@@ -1,6 +1,10 @@
 <a href="http://flattr.com/thing/74149/Gundo-vim" target="_blank">
 <img src="http://api.flattr.com/button/button-compact-static-100x17.png" alt="Flattr this" title="Flattr this" border="0" /></a>
 
+My fork of Gundo is for working on more powerful features. I only have one idea so far:
+
+* Press `s` to prompt a search across undo diffs (NOTE: I've made no progress on this yet)
+
 Gundo.vim is Vim plugin to visualize your Vim undo tree.
 
 Preview
